@@ -1,8 +1,5 @@
 # Final Project - Emotion Detection
 
-**Final Project** for the AI-based Web Application Development course
-(`oaqjp-final-project-emb-ai`).
-
 A Flask web application that performs emotion detection on customer feedback using IBM
 Watson's embeddable NLP `EmotionPredict` service. Enter text in the browser and the app
 returns the scores for anger, disgust, fear, joy, and sadness, along with the dominant
